@@ -1,0 +1,19 @@
+.mdl-layout-title{
+	color: #FFFFFF;
+}
+
+.mdl-layout-title .material-icons{
+	vertical-align: middle;
+}
+
+.content_panel{
+	padding-top: 70px;
+	width: 90%;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+
+h1.text-center{
+	text-align: center;
+}
